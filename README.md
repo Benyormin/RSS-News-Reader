@@ -94,7 +94,7 @@ Or get it directly on [**Download from Café Bazaar**](https://cafebazaar.ir/app
 
 - **Frontend:** Android (Kotlin, MVVM, XML UI)  
 - **Backend:** FastAPI (Python) for AI summarization  
-- **AI:** Gemini / LLM-based multilingual summarizer  
+- **AI:** Gemini for LLM-based multilingual summarizer  
 - **Storage:** Room Database + Firebase (Auth & Firestore)
 
 ---
