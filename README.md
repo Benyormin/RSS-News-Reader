@@ -61,13 +61,21 @@ Local downloads keep your data in control.
 
 ### 📸 Screenshots
 
-| Home | Article | AI Summary |
-|:--:|:--:|:--:|
-| ![Home](screenshots/home.png) | ![Article](screenshots/article.png) | ![Summary](screenshots/summary.png) |
+<div align="center">
 
-*(Add your screenshots to the `screenshots/` folder.)*
+🖼️ **App Preview**
 
----
+<p float="left">
+  <img src="Screenshots/image1.png" width="230" style="margin:10px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="Screenshots/image2.png" width="230" style="margin:10px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="Screenshots/image3.png" width="230" style="margin:10px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="Screenshots/image4.png" width="230" style="margin:10px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="Screenshots/image5.png" width="230" style="margin:10px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
+</p>
+
+</div>
+
+
 
 ### 📦 Download
 
