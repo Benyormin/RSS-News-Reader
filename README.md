@@ -81,7 +81,7 @@ Local downloads keep your data in control.
 
 👉 [**Download Latest APK**](https://github.com/Benyormin/RSS-News-Reader/releases/tag/v1.0.0)
 
-Or get it directly on [**Café Bazaar →**](https://cafebazaar.ir/app/com.bigben.newsapp)
+Or get it directly on [**Download from Café Bazaar**](https://cafebazaar.ir/app/com.bigben.newsapp)
 
 **How to install:**
 1. Visit the **Releases** section and download the `.apk` file.  
